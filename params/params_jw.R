@@ -2,7 +2,7 @@
 # input parameters
 
 # sigma2: 0 < value < 5
-sig2 <-  0.2
+sig2 <-  0.25
 
 # e.g. "jessica_wardinatus"    
 species.name <- "jessica_wardinatus"
